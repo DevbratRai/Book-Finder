@@ -1,16 +1,11 @@
-# React + TypeScript + Vite
-
-Here's a README.md file for the Book Finder application:
-
-                           #Book Finder
-
+#Book Finder
 A React.js application that allows users to search for books by title, view details like author and publication year, and see book covers. This app uses the Open Library API for fetching book data and is styled with TailwindCSS for a clean, responsive design.
 
-Features:-
-Search by Title: Find books by entering their titles.
-Book Details: View essential details, including title, author, and first publication year.
-Cover Images: Displays the book's cover (or a placeholder if unavailable).
-Responsive Design: Fully functional on desktop and mobile devices.
+##Features:-
+###Search by Title: Find books by entering their titles.
+###Book Details: View essential details, including title, author, and first publication year.
+###Cover Images: Displays the book's cover (or a placeholder if unavailable).
+###Responsive Design: Fully functional on desktop and mobile devices.
 
 Technologies Used:-
 Frontend: React.js
