@@ -2,7 +2,7 @@
 
 Here's a README.md file for the Book Finder application:
 
-                             Book Finder
+                           #Book Finder
 
 A React.js application that allows users to search for books by title, view details like author and publication year, and see book covers. This app uses the Open Library API for fetching book data and is styled with TailwindCSS for a clean, responsive design.
 
